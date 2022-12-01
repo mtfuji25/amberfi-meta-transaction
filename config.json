@@ -1,0 +1,8 @@
+{
+    "forwarder": "0x84383806814B2d22587600149b02BD420eE8BBdb",
+    "domain": "MetaTxForwarder",
+    "version": "1.0.0",
+    "gasLimit": 210000,
+    "recipient": "0x9B2e4425e5B04570cbf892A1A1aD263EdA8E87B5",
+    "method": "mint(address,uint256,address,uint96,string,bool,string,string,uint8)"
+}
